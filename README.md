@@ -42,3 +42,19 @@ From the standpoint of your exposed framework, it is against Pebble's end user l
 There is also the same issue with the database change, and I will follow up with Yakou on that.  Thanks for letting me know.
 
 ==================================================================================================================================
+
+email to pebble 2015/12/22
+==================================================================================================================================
+I have deleted the source code and apk from the github and edited the
+post on google plus that exposed framework has license issue.
+Thanks for letting me know that I was doing wrong, and I hope pebble
+would add many many language support on the platform soon.
+
+==================================================================================================================================
+
+email from pebble 2015/12/23
+==================================================================================================================================
+
+Thank you!  We are definitely working towards more language support as well!
+
+==================================================================================================================================

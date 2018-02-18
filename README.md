@@ -2,7 +2,7 @@
 I made the program public again because pebble does not exist anymore.
 https://github.com/takumaniihara/PebbleVoice
 
-
+If there is any problem, plese contact me.
 
 # Pebble-Voice-Settings-Extender
 Director of IP of Pebble Technology Corp asked me to remove the code from github so I did it.
